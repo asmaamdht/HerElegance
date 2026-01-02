@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831119698800",
+    "project_id": "her-elegance-app",
+    "storage_bucket": "her-elegance-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831119698800:android:9edaf588db20bae9c5fdb5",
+        "android_client_info": {
+          "package_name": "com.example.her_elegance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSYT0Pm54kvLVN0IQ3nnFj7FvkzgFcsoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
